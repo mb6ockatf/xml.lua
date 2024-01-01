@@ -1,5 +1,5 @@
 package = "xml"
-version = "1.0-0"
+version = "1.0-1"
 source = {
    url = "git+https://github.com/mb6ockatf/xml.lua.git"
 }
@@ -15,6 +15,6 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-      mfr = "xml.lua"
+      xml = "xml.lua"
    }
 }
