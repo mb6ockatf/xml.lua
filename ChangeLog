@@ -1,0 +1,77 @@
+commit 1e17350b4ba6d468acfad495ad2cfc61be4dd514
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:00:05 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 663294b9fbeeb7aef6692468d79e952f3e59dca1
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 21:24:38 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit dd4debd30d073b0116052327cb0071ed6f913028
+Author: Walter White <mdddmmmm@yandex.ru>
+Date:   Mon Jan 1 23:32:15 2024 +0300
+
+    Update xml-1.0-0.rockspec
+
+commit d76447b6d9883ae950ca31ae7921904e841c4b6b
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jan 1 23:30:43 2024 +0300
+
+    chore: add rockspec
+
+commit 54d57866805a6a0f5e969d6e8d544ad9a093a84a
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jan 1 23:12:35 2024 +0300
+
+    chore: .gitignore, LICENSE
+
+commit cc0410ec2d602b50caea51d7a563f8b5ad664633
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jan 1 23:05:05 2024 +0300
+
+    chore: files renaming, README.md update
+
+commit d95af4cd515b4c3a56e0f5505c137829999c918d
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jan 1 22:53:24 2024 +0300
+
+    feat: support snake_case
+
+commit 8c1cc766cfa9598a50527bab9265ae033d1a1953
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jan 1 22:51:02 2024 +0300
+
+    fix(test & main file)
+    
+    - new module declaration
+    - new style comments
+    - style refactorings (lines no longer 80 characters where possible, newlines before & after functions, newlines in conditionals)
+    - empty file removed
+    - fixed import of newNode (now its used with :, not .)
+
+commit 2c318f3b01121dad61dee34b8c80c970ff938192
+Author: krystian <krystian@cluain.pl>
+Date:   Fri Mar 30 11:36:35 2012 +0200
+
+    Fixed issue with multiple nodes with same name being nested incorrectly
+
+commit 35689b6cb3df30d1006ad3808b691fac9aea0dc3
+Author: krystian <krystian@cluain.pl>
+Date:   Mon Mar 5 11:17:38 2012 +0100
+
+    Corrected typo
+
+commit 5e253009684ae2b81a04d41b35c6cca280973d43
+Author: krystian <krystian@cluain.pl>
+Date:   Mon Mar 5 11:16:10 2012 +0100
+
+    Corrected deep xml issue
+
+commit b24df3552a85a425f616e9f1f9ec6971a69ec7f7
+Author: krystian <krystian@cluain.pl>
+Date:   Tue Dec 27 09:43:23 2011 +0100
+
+    initial commit
